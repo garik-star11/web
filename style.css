@@ -1,0 +1,211 @@
+*{
+	background-color: lightblue;
+}
+.main{
+	width: 1200px;
+	
+	margin: auto;
+
+
+	background-image: linear-gradient(#0c2b68,lightblue);
+
+}
+
+.header{
+	width: 1200px;
+	text-decoration: none;
+
+	
+}
+
+.menu{
+	width: 1200px;
+	height: 50px;
+	text-decoration: none;
+	display: flex;
+	justify-content: space-around;
+	  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+   font-size: 20px;
+}
+.menu a :active{
+	
+	
+}
+.menu a{
+	text-decoration: none;
+}
+
+
+.h1{
+	width: 150px;
+	height: 50px;
+	color: black;
+	padding-left: 50px;
+
+
+}
+
+.s{
+	width: 500px;
+	height: 500px;
+	float: left;
+	background-color: green;
+	
+}
+
+
+.g{
+	width: 100px;
+	height: 100px;
+	margin: auto;
+}
+
+.h{
+	text-align: center;
+}
+
+.hh1{
+	margin-left: 20px;
+	
+}
+
+.verj{
+	width: 1200px;
+	height: 95px;
+	
+	background-color: rgb(47, 50, 56);
+
+}
+
+.content{
+
+	width: 1200px;
+	height: 865px;
+	
+	overflow: auto;
+	
+
+}
+
+.li{
+	width: 
+}
+
+.a1{
+
+	width: 165px;
+	height: 150px;
+	border: 2px solid lightblue;
+	
+	
+}
+
+.mj{
+	width: 500px;
+	height: 200px
+	border: 2px solid black;
+}
+.hh{
+	float: left;
+	width: 500px;
+	height: 350px;
+}
+.a44{
+	clear: left;
+	float: left;
+display: flex;
+
+
+}
+.footer{
+	width: 1200px;
+	height: 100px;
+	
+		background:lightblue;
+}
+.kl	
+{
+	float: right;
+	margin-right: 20px;
+
+}
+h3{
+	margin-left: 20px;
+	background-image: linear(lightblue,white);
+}
+h1{
+		background-image: linear-gradient(lightblue,white);
+		text-align: center;
+}
+
+.h25{
+	width: 200px;
+	height: 200px;
+	margin-left:  25px;
+	margin-top: 25px;
+	float: left;
+	margin: 2px;
+
+}
+
+.content p{
+ margin-left: 12px;
+}
+
+.k6{
+	height: 300px;
+	width: 300px;
+}
+
+.a14{
+	font-size: 50px;
+}
+
+.a16{
+	font-size: 50px;
+	background-image: linear(lightblue,white);
+}
+
+.g5{
+	font-size: 25px;
+	background-image: linear-gradient(lightblue,white);
+}
+
+.a66{
+	display: flex;
+	float: left;
+}
+
+.s44{
+	margin-left: 50px;
+	font-size: 25px;
+}
+
+.s50{
+	
+	font-size: 25px;
+	margin-left: 50px;
+}
+
+.g66{
+	width: 200px;
+	height: 350px;
+}
+
+
+.hj
+{
+	float: right;
+	margin-right: 20px;
+}
+
+.h1 :active{
+	width: 150px;
+	height: 50px;
+	
+	margin: auto;
+	color: red;
+	padding-left: 50px;
+
+}
+
